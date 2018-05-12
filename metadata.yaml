@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6039
     wikipedia: http://en.wikipedia.org/wiki/William_Bligh
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15411#A-Voyage-to-the-South-Sea--13-Undertaken-by-command-of-His-Majesty-for-the-purpose-of-conveyi_
 gutenberg_issued: '2005-03-19'
 gutenberg_type: Text
 identifiers:
