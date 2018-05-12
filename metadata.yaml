@@ -1,0 +1,35 @@
+_repo: A-Voyage-to-the-South-Sea--13-Undertaken-by-command-of-His-Majesty-for-the-purpose-of-conveyi__15411
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bligh, William
+    birthdate: 1754
+    deathdate: 1817
+    gutenberg_agent_id: '6039'
+    url: http://www.gutenberg.org/2009/agents/6039
+    wikipedia: http://en.wikipedia.org/wiki/William_Bligh
+description: ''
+gutenberg_issued: '2005-03-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15411'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Oceania -- Description and travel -- Early works to 1800'
+- !lcsh 'Bounty Mutiny, 1789'
+- !lcc 'DU'
+- !lcsh 'Bounty (Ship)'
+- !lcsh 'Voyages and travels'
+title: "A Voyage to the South Sea\r\nUndertaken by command of His Majesty for the\
+  \ purpose of conveying the bread-fruit tree to the West Indies in His Majesty's\
+  \ ship the Bounty commanded by Lieutenant William Bligh; including an account of\
+  \ the mutiny on board the said ship and the subsequent voyage of part of the crew\
+  \ in the ship's boat from Tofoa, one of the Friendly Islands, to Timor, a Dutch\
+  \ settlement in the East Indies"
+url: http://www.gutenberg.org/ebooks/15411
